@@ -1,5 +1,5 @@
 # bigwork
-bigwork是最后的代码程序，experiment2是传失败的； 
+bigwork是最后的代码程序库； 
 
 
 文件夹中有main.c、Stack.c、Queue.c、Tree.c分别为主函数，栈、队列、树； 
